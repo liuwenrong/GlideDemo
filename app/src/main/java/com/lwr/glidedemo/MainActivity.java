@@ -14,6 +14,8 @@ import com.lwr.tools.AnimUtils;
 public class MainActivity extends AppCompatActivity {
 
     ImageView mInterImg;
+
+    
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
